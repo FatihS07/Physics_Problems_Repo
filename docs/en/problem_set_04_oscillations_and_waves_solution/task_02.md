@@ -99,4 +99,4 @@ $$
 
 ## Interpretation
 
-The total mechanical energy is determined entirely by the state of the system at any single instant and remains constant thereafter. The point where kinetic and potential energies are equal does not occur at half the maximum displacement ($A/2$), but rather at $x = A/\sqrt{2}$, because the potential energy scales quadratically with displacement,not linearly
+The total mechanical energy is determined entirely by the state of the system at any single instant and remains constant thereafter. The point where kinetic and potential energies are equal does not occur at half the maximum displacement ($A/2$), but rather at $x = A/\sqrt{2}$, because the potential energy scales quadratically with displacement, not linearly
